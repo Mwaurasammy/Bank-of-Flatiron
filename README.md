@@ -44,7 +44,7 @@ A simple React application for managing and displaying recent bank transactions.
     Start the JSON server:
 
     ```bash
-    npx json-server --watch db.json
+    npm run server
     ```
 
     The server will run at [http://localhost:8001/transactions](http://localhost:8001/transactions).
